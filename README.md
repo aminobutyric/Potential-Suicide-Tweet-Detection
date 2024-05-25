@@ -3,6 +3,7 @@
 ## Overview
 
 In this study, we analyze a dataset using multiple machine learning techniques and models to detect potential suicide-related tweets. The primary dataset, referred to as 'data', undergoes preprocessing, while its copy, 'data_zero_shot', is reserved for zero-shot classification utilizing the Hugging Face pipeline (MoritzLaurer/bge-m3-zeroshot-v2.0).
+* Dataset: https://www.kaggle.com/datasets/aunanya875/suicidal-tweet-detection-dataset
 
 ## Techniques and Models
 
